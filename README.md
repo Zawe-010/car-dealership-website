@@ -14,7 +14,7 @@ This is a car dealership website showcasing a collection of McLaren sports cars.
 The project includes the following files:
 
 - `index.html` - The main HTML file for the website layout.
-- `styles5.css` - CSS file for styling the website.
+- `styles.css` - CSS file for styling the website.
 - `scripts.js` - JavaScript file for any dynamic functionality.
 - Images of various McLaren models (`.jpg` files).
 
